@@ -1,5 +1,5 @@
 
-```
+
 # Lesson 1: Variables
 
 Variables are objects containing specific values. They serve as names appointed to values or operations that we need to perform multiple times. Understanding variables is crucial for effective programming, as they facilitate efficient time management.
